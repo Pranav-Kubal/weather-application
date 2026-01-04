@@ -1,10 +1,10 @@
 # Weather App
 
 ## Description
-This is a simple weather application that fetches real-time weather data based on the input PIN code. It retrieves details such as temperature, humidity, and air pressure using a weather API.
+This is a simple weather application that fetches real-time weather data based on the input City or PIN code. It retrieves details such as temperature, humidity, and air pressure using a weather API.
 
 ## Features
-- Fetches weather details based on the PIN code.
+- Fetches weather details based on the City or PIN code.
 - Displays temperature, humidity, and air pressure.
 - Uses an API key for real-time data retrieval.
 - Simple and user-friendly interface.
